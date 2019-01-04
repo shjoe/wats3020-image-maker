@@ -10,7 +10,7 @@ a user combine a background image, top text, and bottom text to create a clever
 composition. It's possible to push this image generation much further if you
 desire.
 
-This project covers concepts and techniques described in Practical JavaScript: [The Document Object Model](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/the-document-object-model/). Also, note that the download feature of this project will only work in Chrome.
+This project covers concepts and techniques described in Practical JavaScript: [The Document Object Model](https://suwebdev.github.io/WATS-3020-gitbook/the-document-object-model/). Also, note that the download feature of this project will only work in Chrome.
 
 ## Basic Requirements
 In order to complete this project, fulfill the following requirements:
