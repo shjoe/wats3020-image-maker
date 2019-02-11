@@ -23,9 +23,9 @@ class ImageMaker {
     drawPreview() {
         // Takes user input data from forms and applies them to background image and paragraphs.
 
-        this.imagePreview.style.backgroundImage = 'url("images/${this.backgroundInput.value}")';
-        this.topText.innerHTML = this.topTextInput.values;
-        this.bottomText.innerHTML = this.bottomTextInput.values;
+        this.imagePreview.style.backgroundImage = `url("images/${this.backgroundInput.value}")`;
+        this.topText.innerHTML = this.topTextInput.value;
+        this.bottomText.innerHTML = this.bottomTextInput.value;
     }
     downloadImage() {
         this.drawPreview();
